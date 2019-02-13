@@ -1,0 +1,57 @@
+.container{
+    background-color:cadetblue;
+    width: 600px;
+    height: 335px;  
+    margin-left: 400px;
+    margin-top: 150px;
+}
+form{
+    padding: 10px;
+    margin-left: 100px;
+}
+h1{
+    color:brown;
+    text-align: center;
+    border:2px solid;
+    
+    
+    
+    }
+    
+    body{
+        background-image: url(loginimg.jpg);
+    }    
+    #btnvalue{
+        background-color:brown;
+      
+        color: white;
+        padding: 10px ;
+        text-align: center;
+        text-decoration: none;
+        display:initial;
+        font-size: 16px;
+      text-align: center;
+        cursor: pointer;
+     margin-top: 20px;
+       padding-right: 20px;
+       margin-right: 20px;
+
+       
+       }
+       td{
+        padding: 5px;
+    
+    }
+    #inputsize{
+        height: 25px;
+        
+        }
+        #font{
+            color:brown;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        a{
+            color: blue;
+            font-size: 18px;
+        }
